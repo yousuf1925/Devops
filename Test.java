@@ -1,4 +1,4 @@
 public class Test{
   public static void main(){
-    System.out.println("Hello Word");o9
+    System.out.println("Hello Word");o
   }}
